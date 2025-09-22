@@ -56,8 +56,7 @@
 
   ## 📧 Contact
 
-  - Issue Reporting: GitHub Issues (https://github.com/dev-bitpod-cc/YiJingDivination-
-  Support/issues)
+  - Issue Reporting: GitHub Issues (https://github.com/dev-bitpod-cc/YiJingDivination-Support/issues)
   - Privacy Policy: PRIVACY.md (./PRIVACY.en.md)
 
   ## 📱 Download
