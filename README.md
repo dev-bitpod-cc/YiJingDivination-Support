@@ -21,7 +21,7 @@
   如果您在使用 App 時遇到問題，請：
 
   1. **點擊 
-  [Issues](https://github.com/yourusername/YiJingDivination-Support/issues)**
+  [Issues](https://github.com/dev-bitpod-cc/YiJingDivination-Support/issues)**
   2. **搜尋是否已有相同問題**
   3. **如果沒有，請建立新的 Issue**
 
@@ -48,7 +48,7 @@
   ## 📧 聯絡資訊
 
   - **問題回報：** [GitHub 
-  Issues](https://github.com/yourusername/YiJingDivination-Support/issues)
+  Issues](https://github.com/dev-bitpod-cc/YiJingDivination-Support/issues)
   - **隱私權政策：** [PRIVACY.md](./PRIVACY.md)
 
   ## 📱 下載
